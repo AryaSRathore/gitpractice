@@ -15,7 +15,7 @@ Log4J 1.2.17
 Apache POI 3.14
 Appium 4.1.1
 
-
+<!-- This is some comments line  -->
 Browsers/Emulator on which the framework has been tested as of now:
 Firefox 22.0
 Chrome  52.0
