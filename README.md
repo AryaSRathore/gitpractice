@@ -16,6 +16,7 @@ Apache POI 3.14
 Appium 4.1.1
 
 <!-- This is some comments line  -->
+<!-- This is another attempt to do 'compare and pull request' -->
 Browsers/Emulator on which the framework has been tested as of now:
 Firefox 22.0
 Chrome  52.0
